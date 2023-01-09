@@ -17,6 +17,9 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 
 ## Results
+![PyBer Summary Data Frame.jpg](https://github.com/abrodyyy/PyBer_Analysis/blob/main/Analysis/PyBer%20Summary%20Data%20Frame.jpg)
+![PyBer_fare_summary.png](https://github.com/abrodyyy/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
 - The number of total rides is significantly higher in urban cities than suburban and rural areas, with rural cities having the least of the group.
 - The number of total drivers available is also higher in urban cities than suburban and rural areas, with rural cities having the least of the group.
 - Given the higher number of rides and drivers in Urban cities compared to the others, it's expected that the total fares in that area be significantly higher. While that is true witht the total fares in the areas, the total fare per ride is actually the lowest in the Urban areas. This might be able to be attributed to the shorter distance being traveled in an urban city vs suburban and rural. We would need additional data about the distance traveled to determine if there is a correlation present. 
